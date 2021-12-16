@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">G7s21hugo4295p5</string>
+    <string name="titulop1">Ingresar al sistema</string>
+    <string name="tuser">Nombre de usuario</string>
+    <string name="tpass">Contraseña</string>
+    <string name="btnvalida">Validar usuario</string>
+</resources>
